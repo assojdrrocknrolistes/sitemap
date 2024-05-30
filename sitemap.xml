@@ -1,47 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
-<url>
-  <loc>https://www.assojdr-rocknrolistes.fr/</loc>
-  <lastmod>2024-05-29T15:24:19+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://www.assojdr-rocknrolistes.fr/accueil</loc>
-  <lastmod>2024-05-29T15:24:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.assojdr-rocknrolistes.fr/calendrier</loc>
-  <lastmod>2024-05-29T15:24:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.assojdr-rocknrolistes.fr/adherer</loc>
-  <lastmod>2024-05-29T15:24:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.assojdr-rocknrolistes.fr/avantages</loc>
-  <lastmod>2024-05-29T15:24:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.assojdr-rocknrolistes.fr/faire-un-don</loc>
-  <lastmod>2024-05-29T15:24:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.assojdr-rocknrolistes.fr/a-propos</loc>
-  <lastmod>2024-05-29T15:24:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-
-
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+  <url>
+    <loc>https://www.assojdr-rocknrolistes.fr/</loc>
+    <lastmod>2024-05-29T15:24:19+00:00</lastmod>
+    <priority>1.00</priority>
+  </url>
+  <url>
+    <loc>https://www.assojdr-rocknrolistes.fr/accueil</loc>
+    <lastmod>2024-05-29T15:24:19+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.assojdr-rocknrolistes.fr/calendrier</loc>
+    <lastmod>2024-05-29T15:24:19+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.assojdr-rocknrolistes.fr/adherer</loc>
+    <lastmod>2024-05-29T15:24:19+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.assojdr-rocknrolistes.fr/avantages</loc>
+    <lastmod>2024-05-29T15:24:19+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.assojdr-rocknrolistes.fr/faire-un-don</loc>
+    <lastmod>2024-05-29T15:24:19+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.assojdr-rocknrolistes.fr/a-propos</loc>
+    <lastmod>2024-05-29T15:24:19+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
 </urlset>
